@@ -1,8 +1,13 @@
-# Basic Sample Hardhat Project
+# My first NFT minting project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Opensea screenshot:
+![NFT](a.png)
+This project demonstrates a basic Hardhat use case for minting my own nft using solidity basics and matic network.
+there are two ways to mint nft:
+1. locally using goerly test network
+2. using matic or ethereum network 
 
-Try running some of the following tasks:
+some of the commands that we can run in hardhat are:
 
 ```shell
 npx hardhat accounts
