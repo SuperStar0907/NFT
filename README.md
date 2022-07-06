@@ -2,6 +2,7 @@
 
 Opensea screenshot:
 ![NFT](a.png)
+[NFT link for trading](https://opensea.io/assets/matic/0x4768c3e99e19ae93b1624282f0e380e609dbfe29/1)
 This project demonstrates a basic Hardhat use case for minting my own nft using solidity basics and matic network.
 there are two ways to mint nft:
 1. locally using goerly test network
